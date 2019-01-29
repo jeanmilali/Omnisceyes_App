@@ -6,14 +6,14 @@
             "DATE": "2019-01-29"
         },
         {
-            "TITRE": "Titre2",
-            "CONTENU": "User2",
-            "DATE": "2019-01-28"
+            "TITRE": "Journée jeux de société",
+            "CONTENU": "Joubec et le collectif Omnisceyes se sont associés pour vous proposer une journée de jeux à l'UQAT, le samedi 9 février de 13h à 2h ! Venez partager un moment de détente, convivial et familial, accompagnés de nos maîtres du jeu",
+            "DATE": "2019-01-22"
         },
         {
-            "TITRE": "Titre3",
-            "CONTENU": "Contenu3",
-            "DATE": "2019-01-27"
+            "TITRE": "Ouverture de béta test (Noréa)",
+            "CONTENU": "Omnisceyes était présent lors de l'activité de présentation des projets au Petit théatre du vieux Noranda.",
+            "DATE": "2018-12-17"
         },
         {
             "TITRE": "Titre4",
