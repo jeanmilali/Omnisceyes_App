@@ -3,52 +3,52 @@
         {
             "TITRE": "Lancement de l'application Omnisceyes",
             "CONTENU": "Aujourd'hui est un grand jour. Nous lançons officiellement l'application Omnisceyes qui permet l'accès au nouvelles ainsi qu'à un merveilleu jeu d'évasion en réalité augmentée!",
-            "DATE": "19-01-29"
+            "DATE": "2019-01-29"
         },
         {
             "TITRE": "Titre2",
             "CONTENU": "User2",
-            "DATE": "19-01-28"
+            "DATE": "2019-01-28"
         },
         {
             "TITRE": "Titre3",
             "CONTENU": "Contenu3",
-            "DATE": "19-01-27"
+            "DATE": "2019-01-27"
         },
         {
             "TITRE": "Titre4",
             "CONTENU": "Contenu4",
-            "DATE": "19-01-26"
+            "DATE": "2019-01-26"
         },
         {
             "TITRE": "Titre5",
             "CONTENU": "Contenu5",
-            "DATE": "19-01-25"
+            "DATE": "2019-01-25"
         },
         {
             "TITRE": "Titre6",
             "CONTENU": "Contenu6",
-            "DATE": "19-01-24"
+            "DATE": "2019-01-24"
         },
         {
             "TITRE": "Titre7",
             "CONTENU": "Contenu7",
-            "DATE": "19-01-24"
+            "DATE": "2019-01-24"
         },
         {
             "TITRE": "Titre8",
             "CONTENU": "Contenu8",
-            "DATE": "19-01-24"
+            "DATE": "2019-01-24"
         },
         {
             "TITRE": "Titre9",
             "CONTENU": "Contenu9",
-            "DATE": "19-01-24"
+            "DATE": "2019-01-24"
         },
         {
             "TITRE": "Titre10",
             "CONTENU": "Contenu10",
-            "DATE": "19-01-24"
+            "DATE": "2019-01-24"
         }
     ]
 }
