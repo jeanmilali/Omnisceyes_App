@@ -14,41 +14,6 @@
             "TITRE": "Ouverture de béta test (Noréa)",
             "CONTENU": "Omnisceyes était présent lors de l'activité de présentation des projets au Petit théatre du vieux Noranda.",
             "DATE": "2018-12-17"
-        },
-        {
-            "TITRE": "Titre4",
-            "CONTENU": "Contenu4",
-            "DATE": "2019-01-26"
-        },
-        {
-            "TITRE": "Titre5",
-            "CONTENU": "Contenu5",
-            "DATE": "2019-01-25"
-        },
-        {
-            "TITRE": "Titre6",
-            "CONTENU": "Contenu6",
-            "DATE": "2019-01-24"
-        },
-        {
-            "TITRE": "Titre7",
-            "CONTENU": "Contenu7",
-            "DATE": "2019-01-24"
-        },
-        {
-            "TITRE": "Titre8",
-            "CONTENU": "Contenu8",
-            "DATE": "2019-01-24"
-        },
-        {
-            "TITRE": "Titre9",
-            "CONTENU": "Contenu9",
-            "DATE": "2019-01-24"
-        },
-        {
-            "TITRE": "Titre10",
-            "CONTENU": "Contenu10",
-            "DATE": "2019-01-24"
         }
     ]
 }
