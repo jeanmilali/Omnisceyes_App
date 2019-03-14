@@ -1,8 +1,13 @@
 {
     "Items": [
         {
+            "TITRE": "Événement jeux d'évasion",
+            "CONTENU": "Le 24 mars, Code César et Omnisceyes vous proposent des activités autour du jeu d'évasion sous toutes ses formes. Réalité virtuelle, livres et jeux de société. Où? 60 rue Gamble ouest dans locaux de Code César, de 11 h 00 à 23 h 00, 3$ l'entrée",
+            "DATE": "2019-03-24"
+        },
+        {
             "TITRE": "Lancement de l'application Omnisceyes",
-            "CONTENU": "Aujourd'hui est un grand jour. Nous lançons officiellement l'application Omnisceyes qui permet l'accès au nouvelles ainsi qu'à un merveilleu jeu d'évasion en réalité augmentée!",
+            "CONTENU": "Aujourd'hui est un grand jour. Nous lançons officiellement l'application Omnisceyes qui permet l'accès aux nouvelles ainsi qu'à un merveilleux jeu d'évasion en réalité augmentée!",
             "DATE": "2019-01-29"
         },
         {
@@ -12,7 +17,7 @@
         },
         {
             "TITRE": "Ouverture de béta test (Noréa)",
-            "CONTENU": "Omnisceyes était présent lors de l'activité de présentation des projets au Petit théatre du vieux Noranda.",
+            "CONTENU": "Omnisceyes était présent lors de l'activité de présentation des projets au Petit théatre du Vieux Noranda.",
             "DATE": "2018-12-17"
         }
     ]
