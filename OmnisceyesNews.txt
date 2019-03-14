@@ -2,8 +2,8 @@
     "Items": [
         {
             "TITRE": "Événement jeux d'évasion",
-            "CONTENU": "Le 24 mars, Code César et Omnisceyes vous proposent des activités autour du jeu d'évasion sous toutes ses formes. Réalité virtuelle, livres et jeux de société. Où? 60 rue Gamble ouest dans locaux de Code César, de 11 h 00 à 23 h 00, 3$ l'entrée",
-            "DATE": "2019-03-24"
+            "CONTENU": "Omnisceyes et Code César vous proposent des activités autour du jeu d'évasion. Réalité virtuelle, livres et jeux de société. Où? 60 rue Gamble ouest dans les locaux de Code César, de 11h à 23h, 3$ l'entrée",
+            "DATE": "2019-03-14"
         },
         {
             "TITRE": "Lancement de l'application Omnisceyes",
@@ -12,7 +12,7 @@
         },
         {
             "TITRE": "Journée jeux de société",
-            "CONTENU": "Joubec et le collectif Omnisceyes se sont associés pour vous proposer une journée de jeux à l'UQAT, le samedi 9 février de 13h à 2h ! Venez partager un moment de détente, convivial et familial, accompagnés de nos maîtres du jeu",
+            "CONTENU": "Le collectif Omnisceyes et Joubec se sont associés pour vous proposer une journée de jeux à l'UQAT, le samedi 9 février de 13h à 2h ! Venez partager un moment de détente, convivial et familial, accompagnés de nos maîtres du jeu",
             "DATE": "2019-01-22"
         },
         {
